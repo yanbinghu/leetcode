@@ -2,11 +2,14 @@ int maxProfit(int* prices, int pricesSize) {
     if(NULL == prices || 0 == pricesSize)
         return 0;
     int profit = 0;
-    int i = 1;
+    int i = 0;
+    int min = INT_MAX;
     while(i < pricesSize)
     {
-        if(prices[i] > prices[i-1])
-            profit+=prices[i]-prices[i-1];
+        if(prices[i] < min)
+            min = prices[i];
+        else if(prices[i] - min > profit)
+            profit = prices[i] - min;
         i++;
     }
     return profit;
