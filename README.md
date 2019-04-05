@@ -2,14 +2,14 @@
 |--|--|--|--|--|--|--|--|--|
 |[0001](https://leetcode.com/problems/two-sum)|[two-sum](./src/0001/0001-two-sum.c)|easy||||89 ms|N/A|0.42|
 |[0002](https://leetcode.com/problems/add-two-numbers)|[add-two-numbers](./src/0002/0002-add-two-numbers.c)|medium||||26 ms|N/A|0.31|
-|[0003](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[longest-substring-without-repeating-characters](./src/0003/0003-longest-substring-without-repeating-characters.c)|medium||||1032 ms|N/A|0.28|
+|[0003](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[longest-substring-without-repeating-characters](./src/0003/0003-longest-substring-without-repeating-characters.c)|medium||String||1032 ms|N/A|0.28|
 |[0008](https://leetcode.com/problems/string-to-integer-atoi)|[string-to-integer-atoi](./src/0008/0008-string-to-integer-atoi.c)|medium||||12 ms|12.8 MB|0.15|
 |[0009](https://leetcode.com/problems/palindrome-number)|[palindrome-number](./src/0009/0009-palindrome-number.c)|easy||||116 ms|N/A|0.42|
 |[0013](https://leetcode.com/problems/roman-to-integer)|[roman-to-integer](./src/0013/0013-roman-to-integer.c)|easy||||44 ms|29.7 MB|0.52|
 |[0020](https://leetcode.com/problems/valid-parentheses)|[valid-parentheses](./src/0020/0020-valid-parentheses.c)|easy||||4 ms|7.3 MB|0.36|
 |[0026](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[remove-duplicates-from-sorted-array](./src/0026/0026-remove-duplicates-from-sorted-array.c)|easy||||8 ms|N/A|0.4|
 |[0033](https://leetcode.com/problems/search-in-rotated-sorted-array)|[search-in-rotated-sorted-array](./src/0033/0033-search-in-rotated-sorted-array.c)|medium||||4 ms|N/A|0.33|
-|[0053](https://leetcode.com/problems/maximum-subarray)|[maximum-subarray](./src/0053/0053-maximum-subarray.c)|easy||||4 ms|N/A|0.43|
+|[0053](https://leetcode.com/problems/maximum-subarray)|[maximum-subarray](./src/0053/0053-maximum-subarray.c)|easy||Array||4 ms|N/A|0.43|
 |[0066](https://leetcode.com/problems/plus-one)|[plus-one](./src/0066/0066-plus-one.c)|easy||||0 ms|N/A|0.41|
 |[0075](https://leetcode.com/problems/sort-colors)|[sort-colors](./src/0075/0075-sort-colors.c)|medium||||0 ms|N/A|0.41|
 |[0081](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|[search-in-rotated-sorted-array-ii](./src/0081/0081-search-in-rotated-sorted-array-ii.c)|medium||||0 ms|N/A|0.32|
